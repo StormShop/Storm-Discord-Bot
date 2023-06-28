@@ -5,7 +5,7 @@ from discord.ext import commands, tasks
 
 intents = discord.Intents.default()
 
-bot_token = 'MTA0Mzg0NTQ3MTcwNzMzMjY0OQ.G8-rBg.sv2ui-MA8UYfbrpAjmIfwsPo2uSzTLNToht4Us'
+bot_token = 'TOKEN'
 bot_prefix = '!'
 bot = commands.Bot(command_prefix=bot_prefix, intents=intents)
 
